@@ -9,6 +9,7 @@
 - **前端**: Vue 3 (Composition API), Vue Router, Pinia, Vite, Tailwind CSS, Electron, PWA
 - **数据与运维**: MySQL, Redis, Nginx (反向代理), Docker & Compose, Linux, Git/Maven
 - **语言**: 日语 N2(N1备考中),英语(TOEIC 690)
+  
 ---
 
 ## 🥇 个人荣誉
